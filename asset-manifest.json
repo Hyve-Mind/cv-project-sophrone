@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cv-project-sophrone/static/css/main.624a7c28.css",
+    "main.js": "/cv-project-sophrone/static/js/main.aae14eb7.js",
+    "index.html": "/cv-project-sophrone/index.html",
+    "main.624a7c28.css.map": "/cv-project-sophrone/static/css/main.624a7c28.css.map",
+    "main.aae14eb7.js.map": "/cv-project-sophrone/static/js/main.aae14eb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.624a7c28.css",
+    "static/js/main.aae14eb7.js"
+  ]
+}
